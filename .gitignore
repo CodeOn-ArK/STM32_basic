@@ -21,6 +21,14 @@
 *.a
 *.la
 *.lo
+*.ld
+*.ioc
+*.launch
+*.project
+*.mxproject
+*.cproject
+*.xml
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
